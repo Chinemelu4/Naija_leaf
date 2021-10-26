@@ -1,7 +1,6 @@
 numpy
 pandas
 streamlit
-scikit-image==0.16.2
 scikit-learn==0.22.2.post1
 sklearn==0.0
 tensorboard==2.6.0
