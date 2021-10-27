@@ -3,7 +3,5 @@ numpy==1.19.5
 scikit-image==0.16.2
 tensorflow-cpu
 streamlit
-Keras-Preprocessing==1.1.2
-Keras-Applications
 requests==2.23.0
 
