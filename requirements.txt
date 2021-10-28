@@ -3,7 +3,6 @@ Jinja2==2.11.3
 Keras==1.2.1
 MarkupSafe==2.0.1
 numpy==1.19.5
-Pillow==4.0.0
 scikit-image==0.16.2
 streamlit
 requests==2.23.0
