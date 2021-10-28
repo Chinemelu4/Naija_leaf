@@ -4,7 +4,7 @@ from PIL import Image
 import requests
 from skimage.transform import resize
 from io import BytesIO
-tensorflow.keras.models import load_model
+from tensorflow.keras.models import load_model
 from keras.preprocessing.image import load_img
 from keras.preprocessing.image import img_to_array
 from keras.applications.inception_v3 import preprocess_input
