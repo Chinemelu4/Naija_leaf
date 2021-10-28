@@ -5,5 +5,5 @@ tensorflow-cpu==2.4.0
 streamlit
 requests==2.23.0
 Keras.preprocessing
-Keras.applications
+Keras.applications.inception_v3
 
