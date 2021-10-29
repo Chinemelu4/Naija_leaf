@@ -16,7 +16,7 @@ st.title('Nigerian leaves classifier')
 st.text('Upload your leaf image here')
 
 
-model=load_model("best_model.h5",custom_objects={'tf': tf})
+model=load_model("best_model.h5",path=(https://github.com/Chinemelu4/Naija_leaf/blob/main/best_model.h5))
 
 classes=['afang', 'bitterleaf', 'oha', 'pumpkin', 'waterleaf']
 
